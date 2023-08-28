@@ -4,7 +4,7 @@
   Ciclo: 2023B
   Carrera: INCO
   Seccio: D06
-  Profesor: Michel Emanuel Lopéz Franco
+  Profesor: Michel Emanuel López Franco
 
 ###### Objetivos:
 Conocer los conceptos básicos en sistemas tolerantes a fallas.
